@@ -1,0 +1,1 @@
+Welcome! This is a practice project I made to explore Dash and app callbacks. The code uses a CSV and generates an interactive webapp to display a figure.  There are two files: one generates a line graph and the other generates a bar plot.
